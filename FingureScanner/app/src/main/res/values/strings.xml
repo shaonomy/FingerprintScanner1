@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingureScanner</string>
+    <string name="instruction">Place your fingure to verify</string>
+</resources>
